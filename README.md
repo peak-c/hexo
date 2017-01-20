@@ -16,6 +16,7 @@
 
 #### sublime text 3 
 
+* [解决sublimeText3无法安装插件问题 -- There are no packages available for installation ](http://blog.csdn.net/zhyh1986/article/details/40678263)
 * [Sublime Text3下的markdown插件的安装及配置](http://www.cnblogs.com/Sinte-Beuve/p/5148108.html)
 * [Sublime Text 3 使用MarkDown编写带预览的文本](http://blog.csdn.net/marksinoberg/article/details/50993456)
 
